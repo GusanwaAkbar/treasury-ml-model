@@ -1,0 +1,41 @@
+Deskripsi,Nominal,Verifikasi,closest_words,closest_words_num,score
+pembayaran shf,200,SHF,shf,1,100
+pembayaran s h f,200,SHF,shf,1,90
+pembyaran s h f,200,SHF,shf,1,90
+abcabcabc,200,SHF,missing,0,12
+settlement cabang jabotabek,250,BUF/BUP,settlement,2,100
+setlement,300,BUF/BUP,settlement,2,95
+setlement,500,BUF/BUP,settlement,2,95
+setelment,1000000,BUF/BUP,settlement,2,84
+fiducia,2000000,fidusia,fidusia,3,86
+fiducia,2001000,fidusia,fidusia,3,86
+abca fidusia abcaba,2000000,fidusia,fidusia,3,100
+abcabafidusia,2100000,fidusia,fidusia,3,90
+pinalti,1000000,pinalty,pinalty,4,86
+pinalty,2500000,pinalty,pinalty,4,100
+pi nal ty,3000000,pinalty,pinalty,4,90
+pi nal ty,3000000,pinalty,pinalty,4,90
+umk 3,1000000,umk3,umk3,5,90
+umk 3,2000000,umk3,umk3,5,90
+u  m  k 3,3000000,umk3,fidusia,3,90
+abc umk 3 abca,3000000,umk3,umk3,5,90
+pembayaran shf,200,SHF,shf,1,100
+pembayaran s h f,200,SHF,shf,1,90
+pembyaran s h f,200,SHF,shf,1,90
+abcabcabc,200,SHF,missing,0,12
+settlement cabang jabotabek,250,BUF/BUP,settlement,2,100
+setlement,300,BUF/BUP,settlement,2,95
+setlement,500,BUF/BUP,settlement,2,95
+setelment,1000000,BUF/BUP,settlement,2,84
+fiducia,2000000,fidusia,fidusia,3,86
+fiducia,2001000,fidusia,fidusia,3,86
+abca fidusia abcaba,2000000,fidusia,fidusia,3,100
+abcabafidusia,2100000,fidusia,fidusia,3,90
+pinalti,1000000,pinalty,pinalty,4,86
+pinalty,2500000,pinalty,pinalty,4,100
+pi nal ty,3000000,pinalty,pinalty,4,90
+pi nal ty,3000000,pinalty,pinalty,4,90
+umk 3,1000000,umk3,umk3,5,90
+umk 3,2000000,umk3,umk3,5,90
+u  m  k 3,3000000,umk3,fidusia,3,90
+abc umk 3 abca,3000000,umk3,umk3,5,90
